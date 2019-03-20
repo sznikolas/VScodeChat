@@ -1,0 +1,11 @@
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\bin\Debug\netcoreapp2.2\szamologep.deps.json
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\bin\Debug\netcoreapp2.2\szamologep.runtimeconfig.json
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\bin\Debug\netcoreapp2.2\szamologep.runtimeconfig.dev.json
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\bin\Debug\netcoreapp2.2\szamologep.dll
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\bin\Debug\netcoreapp2.2\szamologep.pdb
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.csprojAssemblyReference.cache
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.AssemblyInfoInputs.cache
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.AssemblyInfo.cs
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.dll
+C:\Users\sznik\Desktop\VSCodeChat\VScodeChat\szamologep\obj\Debug\netcoreapp2.2\szamologep.pdb
