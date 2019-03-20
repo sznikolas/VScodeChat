@@ -2,9 +2,11 @@
 using Gtk;
 
 namespace asd
-{
-    class Program
+{        class Program
     {
+        
+ 
+      
         public static void Main(string[] args)
         {
             Application.Init();
@@ -22,7 +24,14 @@ namespace asd
             Button exit = new Button("Kilepes");
             exit.Released+=delegate{Application.Quit();}; //kilep a programbol
 
+            TextView text1 = new TextView();
+            //myTable.Add(text1);
+
             Button btn1 = new Button("1");
+            //btn1.Released+=delegate{text1.Buffer.Text="1";};
+            btn1.Clicked += egyes;
+
+            
             Button btn2 = new Button("2");
             Button btn3 = new Button("3");
             Button btn4 = new Button("4");
@@ -62,14 +71,18 @@ namespace asd
             myTable.Attach(btn11,3,4,4,5);
 
             myTable.Attach (exit,0,3,1,2);
+            myTable.Attach (text1,0,4,0,1);
 
 
             myWindow.ShowAll();
             Application.Run();
 
+             void egyes (object sender, System.EventArgs  e)
+            {
+                text1.Buffer.Text = "1";
+            }
+          
 
-
-            
         }
     }
 }
